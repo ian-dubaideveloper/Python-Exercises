@@ -25,3 +25,13 @@ if __name__ == '__main__':
     print(f"Factorial of {n}: {MathUtils.factorial(n)}")
     x, y = 2, 3
     print(f"{x} raised to the power of {y}: {MathUtils.power(x, y)}")
+
+
+    """
+        In a single class, create the following methods that recursively compute:
+        the sum from 1 to N.
+        the factorial of n.
+        x raised to the power of y.
+        Call each method with starter values in the main method
+        
+        """
