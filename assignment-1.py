@@ -36,7 +36,7 @@ truck1 = Truck("Ford", "F-150", 2022, 2500.0, 800.0)
 #create a list of vehicle objects
 vehicles = [car1, truck1]
 
-
+#declare
 for vehicle in vehicles:
     print(vehicle.description())
 
